@@ -14,4 +14,4 @@ else:
 
 result = marks / questions
 print("Your result is: ", result * 100, "%")
-input()
+input("Press any keyboard to exit the program")
